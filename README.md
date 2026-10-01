@@ -1,4 +1,4 @@
-# Jupyter notebooks for different tasks
+# Vision models Zoo
 ## *Zoologico de modelos de vision*
 
 | File / Archivo | EN | ES |
